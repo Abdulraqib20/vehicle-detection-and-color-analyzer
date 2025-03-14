@@ -38,13 +38,13 @@ ENV/
 
 # Project specific
 data
+*.csv
 models/color_detection_model.keras
 models/model_weights.weights.h5
 models/yolov8m-seg_best.pt
 
-models/EFN-model.best.h5
-models/yolov8m-seg.pt
-*.csv
+# models/EFN-model.best.h5
+# models/yolov8m-seg.pt
 
 # OS specific
 .DS_Store
