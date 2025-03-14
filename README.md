@@ -1,6 +1,6 @@
-﻿# vehicle-detection-and-color-analyzer
+﻿# Vehicle detection and color analyzer
 
-This application uses AI to detect vehicles in images, identify vehicle types & predict vehicle colors
+This application uses AI to detect vehicles in images, identify vehicle types & predict vehicle colors. The project is a prelude to my final-year project at the University of Ilorin, which is the development of an ANPR system for crime invesgtigation and detection
 
 ## Features
 
